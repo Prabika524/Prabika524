@@ -2,10 +2,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:00d4ff,50:8b5cf6,100\:ec4899\&height=230\&section=header\&text=Prabika%20Rai\&fontSize=45\&fontColor=ffffff\&fontAlignY=35\&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast\&descSize=17\&descAlignY=55\&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabika%20Rai-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabika%20Rai-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prabika-rai-b49061377/)
 [![GitHub](https://img.shields.io/badge/GitHub-Prabika524-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Prabika524)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge\&logo=googlechrome\&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](raiprabika34@gmail.com)
 
 </div>
 
