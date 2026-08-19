@@ -1,6 +1,9 @@
-<div align="center">
+Yes — this time I'm giving you the **actual README content with NO outer ` ```markdown ` wrapper** inside it.
 
-<!-- ===================== HERO ===================== -->
+**Copy everything inside this single block and paste directly into GitHub → `README.md`.** Do not add another backtick before or after it.
+
+```text
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=240&section=header&text=Prabika%20Rai&fontSize=52&fontColor=e0f2fe&fontAlignY=38&desc=Frontend%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
@@ -34,7 +37,6 @@
 
 <table>
 <tr>
-
 <td width="55%" valign="top">
 
 ### Hi, I'm Prabika! 🌊
@@ -51,7 +53,7 @@ I enjoy learning through **academic projects, personal projects and hands-on pra
 
 <td width="45%" valign="top">
 
-```javascript
+<pre>
 const prabika = {
   location: "Kathmandu, Nepal 🇳🇵",
 
@@ -75,10 +77,9 @@ const prabika = {
 
   goal: "Build better software 🚀"
 };
-```
+</pre>
 
 </td>
-
 </tr>
 </table>
 
@@ -96,18 +97,18 @@ const prabika = {
 
 </div>
 
-I enjoy building **clean, responsive and intuitive interfaces** and improving the overall user experience of web applications.
+I enjoy building **clean, responsive and intuitive interfaces** while improving the overall user experience of web applications.
 
 ### What I enjoy working on
 
-* 🎨 Clean and modern user interfaces
-* 📱 Responsive web design
-* 🧩 Reusable UI components
-* ⚡ JavaScript interactions
-* 🌐 Frontend functionality
-* ✨ User experience improvements
-* 📐 Layout and visual consistency
-* 🔍 Browser-based debugging
+- 🎨 Clean and modern user interfaces
+- 📱 Responsive web design
+- 🧩 Reusable UI components
+- ⚡ JavaScript interactions
+- 🌐 Frontend functionality
+- ✨ User experience improvements
+- 📐 Layout and visual consistency
+- 🔍 Browser-based debugging
 
 <br>
 
@@ -137,18 +138,18 @@ I'm developing my skills in **Quality Assurance and Software Testing**, with a f
 
 <div align="center">
 
-|     🧪 Testing     |   🔍 Quality   |    🐞 Debugging    |
-| :----------------: | :------------: | :----------------: |
-|   Manual Testing   |   Test Cases   | Bug Identification |
-| Functional Testing | Test Scenarios |    Bug Reporting   |
-| Regression Testing |  Requirements  |     Re-testing     |
-|     API Testing    | Quality Checks |      Debugging     |
+| 🧪 Testing | 🔍 Quality | 🐞 Debugging |
+|:---:|:---:|:---:|
+| Manual Testing | Test Cases | Bug Identification |
+| Functional Testing | Test Scenarios | Bug Reporting |
+| Regression Testing | Requirements | Re-testing |
+| API Testing | Quality Checks | Debugging |
 
 </div>
 
 ### 🔄 QA Workflow
 
-```text
+<pre>
 Requirements
      ↓
 Test Scenarios
@@ -164,7 +165,7 @@ Developer Fix
 Re-test
      ↓
 Regression Testing
-```
+</pre>
 
 Currently building practical experience with:
 
@@ -184,17 +185,17 @@ Currently building practical experience with:
 
 <br>
 
-| Area                 | Technologies                                           |
-| -------------------- | ------------------------------------------------------ |
-| 🎨 **Frontend**      | HTML, CSS, JavaScript, Bootstrap                       |
-| 🧪 **QA & Testing**  | Manual Testing, Test Cases, Bug Reporting, API Testing |
-| 🔧 **Tools**         | Git, GitHub, VS Code, Postman                          |
-| 🗄️ **Database**     | MySQL, PostgreSQL                                      |
-| ☕ **Backend Basics** | Java, Spring Boot                                      |
-| 🐍 **Programming**   | Python                                                 |
-| 📊 **Data**          | Pandas, R, Data Analysis                               |
+| Area | Technologies |
+|---|---|
+| 🎨 **Frontend** | HTML, CSS, JavaScript, Bootstrap |
+| 🧪 **QA & Testing** | Manual Testing, Test Cases, Bug Reporting, API Testing |
+| 🔧 **Tools** | Git, GitHub, VS Code, Postman |
+| 🗄️ **Database** | MySQL, PostgreSQL |
+| ☕ **Backend Basics** | Java, Spring Boot |
+| 🐍 **Programming** | Python |
+| 📊 **Data** | Pandas, R, Data Analysis |
 
-> 💡 **Main focus:** Frontend Development & QA
+> 💡 **Main focus:** Frontend Development & QA  
 > The other technologies are areas I've explored through coursework and projects and continue to learn.
 
 ---
@@ -202,7 +203,6 @@ Currently building practical experience with:
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -213,13 +213,13 @@ A collection of academic and practice projects focused on building **responsive 
 
 ### Highlights
 
-* 🎨 Responsive layouts
-* 📱 Mobile-friendly interfaces
-* ⚡ JavaScript functionality
-* 🧩 DOM manipulation
-* 🖱️ User interactions
-* ✨ UI improvements
-* 🔍 Browser debugging
+- 🎨 Responsive layouts
+- 📱 Mobile-friendly interfaces
+- ⚡ JavaScript functionality
+- 🧩 DOM manipulation
+- 🖱️ User interactions
+- ✨ UI improvements
+- 🔍 Browser debugging
 
 **Technologies**
 
@@ -235,12 +235,12 @@ A full-stack fitness management system designed to help users track their fitnes
 
 ### Features
 
-* 👤 User management
-* 📊 Progress tracking
-* 🏃 Activity management
-* 📋 Workout plans
-* 🔔 Notifications
-* 📈 Progress visualization
+- 👤 User management
+- 📊 Progress tracking
+- 🏃 Activity management
+- 📋 Workout plans
+- 🔔 Notifications
+- 📈 Progress visualization
 
 **Technologies**
 
@@ -262,11 +262,11 @@ A Java-based academic project designed to manage basic dental clinic operations.
 
 ### Features
 
-* 👨‍⚕️ Dentist management
-* 🧑‍🤝‍🧑 Patient management
-* 📅 Appointment management
-* 🗄️ Database integration
-* 🔐 Role-based functionality
+- 👨‍⚕️ Dentist management
+- 🧑‍🤝‍🧑 Patient management
+- 📅 Appointment management
+- 🗄️ Database integration
+- 🔐 Role-based functionality
 
 **Technologies**
 
@@ -282,12 +282,12 @@ Hands-on practice focused on understanding software quality and testing processe
 
 ### Areas
 
-* Test case creation
-* Functional testing
-* Regression testing
-* Bug identification
-* Bug reporting
-* API testing with Postman
+- Test case creation
+- Functional testing
+- Regression testing
+- Bug identification
+- Bug reporting
+- API testing with Postman
 
 **Focus**
 
@@ -296,7 +296,6 @@ Hands-on practice focused on understanding software quality and testing processe
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -321,7 +320,7 @@ Hands-on practice focused on understanding software quality and testing processe
 
 <br>
 
-```text
+<pre>
 Frontend Development    ████████████████████░   Primary Focus
 QA & Software Testing   █████████████████░░░░   Growing Skills
 JavaScript              ████████████████░░░░░   Improving
@@ -329,7 +328,7 @@ API Testing             █████████████░░░░░�
 Java & Spring Boot      ██████████░░░░░░░░░░░   Learning
 Python & Data           ████████░░░░░░░░░░░░░   Exploring
 AI / ML                 ██████░░░░░░░░░░░░░░░   Exploring
-```
+</pre>
 
 ---
 
@@ -381,41 +380,65 @@ Developing a broader understanding of the **software development lifecycle**.
 
 ---
 
-# 📊 GitHub Analytics
+# 🌌 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prabika524&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabika524&layout=compact&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabika524&hide_border=true&background=020617&ring=38BDF8&fire=67E8F9&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=64748B&currStreakNum=E0F2FE&sideNums=E0F2FE" width="70%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabika524&bg_color=020617&color=7DD3FC&line=38BDF8&point=67E8F9&area=true&area_color=0C4A6E&hide_border=true&custom_title=Prabika524%27s%20Contribution%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-# 🌌 Contribution Activity
+# 📌 GitHub Journey
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabika524&bg_color=020617&color=7DD3FC&line=38BDF8&point=67E8F9&area=true&hide_border=true" width="100%"/>
+<table>
+<tr>
 
-</div>
+<td align="center" width="25%">
 
----
+### 🎨
+**Build**
 
-# 🐍 Contribution Snake
+Creating responsive  
+web interfaces
 
-<div align="center">
+</td>
 
-<img src="https://raw.githubusercontent.com/Prabika524/Prabika524/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<td align="center" width="25%">
+
+### 🧪
+**Test**
+
+Finding and  
+understanding bugs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔧
+**Improve**
+
+Making software  
+better and reliable
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+**Learn**
+
+Growing through  
+real projects
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -472,3 +495,4 @@ Whether it's a **web project, QA practice, hackathon, collaboration**, or simply
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=120&section=footer" width="100%"/>
 
 </div>
+```
