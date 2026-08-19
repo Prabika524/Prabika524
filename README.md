@@ -1,8 +1,8 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:ec4899&height=240&section=header&text=Prabika%20Rai&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+<!-- ===================== HERO ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=240&section=header&text=Prabika%20Rai&fontSize=52&fontColor=e0f2fe&fontAlignY=38&desc=Frontend%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -11,20 +11,20 @@
 </a>
 &nbsp;
 <a href="https://github.com/Prabika524">
-<img src="https://img.shields.io/badge/GitHub-Prabika524-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Prabika524-0F172A?style=for-the-badge&logo=github&logoColor=E0F2FE"/>
 </a>
 &nbsp;
 <a href="https://prabika.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:raiprabika34@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+interfaces+%F0%9F%8E%A8;Exploring+Software+Quality+%26+Testing+%F0%9F%A7%AA;Learning+through+real+projects+%F0%9F%9A%80;Turning+ideas+into+better+user+experiences+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+interfaces+%F0%9F%8E%A8;Exploring+Software+Quality+%26+Testing+%F0%9F%A7%AA;Learning+through+real+projects+%F0%9F%9A%80;Turning+ideas+into+better+user+experiences+%E2%9C%A8"/>
 
 </div>
 
@@ -34,9 +34,10 @@
 
 <table>
 <tr>
+
 <td width="55%" valign="top">
 
-### Hi, I'm Prabika! 🌷
+### Hi, I'm Prabika! 🌊
 
 I'm a **Software Engineering student** from Kathmandu, Nepal, with a strong interest in **Frontend Development and Software Quality Assurance**.
 
@@ -44,7 +45,7 @@ I enjoy creating **clean, responsive and user-friendly web interfaces** while al
 
 Currently pursuing **BSc (Hons) Software Engineering** at **Patan College for Professional Studies (PCPS)**, affiliated with the **University of Bedfordshire, UK**.
 
-I'm continuously improving through **academic projects, personal projects and hands-on practice**.
+I enjoy learning through **academic projects, personal projects and hands-on practice** while continuously improving my development and testing skills.
 
 </td>
 
@@ -77,6 +78,7 @@ const prabika = {
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -86,13 +88,15 @@ const prabika = {
 
 <div align="center">
 
-### My Primary Focus
+### ❄️ My Primary Focus
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
 
 </div>
+
+I enjoy building **clean, responsive and intuitive interfaces** and improving the overall user experience of web applications.
 
 ### What I enjoy working on
 
@@ -101,8 +105,8 @@ const prabika = {
 * 🧩 Reusable UI components
 * ⚡ JavaScript interactions
 * 🌐 Frontend functionality
-* ✨ Improving user experience
-* 📐 Layout, spacing and visual consistency
+* ✨ User experience improvements
+* 📐 Layout and visual consistency
 * 🔍 Browser-based debugging
 
 <br>
@@ -119,7 +123,7 @@ const prabika = {
 
 <div align="center">
 
-### Making software reliable, not just functional.
+### 🧊 Making software reliable, not just functional.
 
 <br>
 
@@ -127,18 +131,22 @@ const prabika = {
 
 </div>
 
-I'm also developing my skills in **Quality Assurance and Software Testing**, with a focus on understanding how software behaves from a user's perspective.
+I'm developing my skills in **Quality Assurance and Software Testing**, with a focus on understanding software from both the **developer and user's perspective**.
 
 ### Areas I'm Exploring
+
+<div align="center">
 
 |     🧪 Testing     |   🔍 Quality   |    🐞 Debugging    |
 | :----------------: | :------------: | :----------------: |
 |   Manual Testing   |   Test Cases   | Bug Identification |
 | Functional Testing | Test Scenarios |    Bug Reporting   |
-| Regression Testing |  Requirements  |      Debugging     |
-|     API Testing    | Quality Checks |     Re-testing     |
+| Regression Testing |  Requirements  |     Re-testing     |
+|     API Testing    | Quality Checks |      Debugging     |
 
-### QA Workflow
+</div>
+
+### 🔄 QA Workflow
 
 ```text
 Requirements
@@ -158,15 +166,17 @@ Re-test
 Regression Testing
 ```
 
-I'm currently building practical experience with **manual testing, test case design, bug reporting and API testing**.
+Currently building practical experience with:
+
+`Manual Testing` `Test Case Design` `Bug Reporting` `API Testing`
 
 ---
 
 # 🛠️ Skills & Technologies
 
-## ⭐ Core Skills
-
 <div align="center">
+
+## ⭐ Core Skills
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,postman,git,github,vscode"/>
 
@@ -174,32 +184,34 @@ I'm currently building practical experience with **manual testing, test case des
 
 <br>
 
-| Area             | Technologies                                           |
-| ---------------- | ------------------------------------------------------ |
-| 🎨 Frontend      | HTML, CSS, JavaScript, Bootstrap                       |
-| 🧪 QA & Testing  | Manual Testing, Test Cases, Bug Reporting, API Testing |
-| 🔧 Tools         | Git, GitHub, VS Code, Postman                          |
-| 🗄️ Database     | MySQL, PostgreSQL                                      |
-| ☕ Backend Basics | Java, Spring Boot                                      |
-| 🐍 Programming   | Python                                                 |
-| 📊 Data          | Pandas, R, Data Analysis                               |
+| Area                 | Technologies                                           |
+| -------------------- | ------------------------------------------------------ |
+| 🎨 **Frontend**      | HTML, CSS, JavaScript, Bootstrap                       |
+| 🧪 **QA & Testing**  | Manual Testing, Test Cases, Bug Reporting, API Testing |
+| 🔧 **Tools**         | Git, GitHub, VS Code, Postman                          |
+| 🗄️ **Database**     | MySQL, PostgreSQL                                      |
+| ☕ **Backend Basics** | Java, Spring Boot                                      |
+| 🐍 **Programming**   | Python                                                 |
+| 📊 **Data**          | Pandas, R, Data Analysis                               |
 
-> **Note:** My main focus is currently **Frontend Development and QA**. The other technologies listed above are areas I have explored through coursework and projects and continue to learn.
+> 💡 **Main focus:** Frontend Development & QA
+> The other technologies are areas I've explored through coursework and projects and continue to learn.
 
 ---
 
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 🌐 Web Development Projects
 
-A collection of academic and practice projects focused on building responsive and interactive web interfaces.
+A collection of academic and practice projects focused on building **responsive and interactive web interfaces**.
 
-### What I worked on
+### Highlights
 
 * 🎨 Responsive layouts
 * 📱 Mobile-friendly interfaces
@@ -207,6 +219,7 @@ A collection of academic and practice projects focused on building responsive an
 * 🧩 DOM manipulation
 * 🖱️ User interactions
 * ✨ UI improvements
+* 🔍 Browser debugging
 
 **Technologies**
 
@@ -218,7 +231,7 @@ A collection of academic and practice projects focused on building responsive an
 
 ## 🏋️ Daily Fitness Tracker
 
-A full-stack fitness management system with a focus on providing users with a simple interface for tracking fitness activities and progress.
+A full-stack fitness management system designed to help users track their fitness activities and progress.
 
 ### Features
 
@@ -232,6 +245,7 @@ A full-stack fitness management system with a focus on providing users with a si
 **Technologies**
 
 `Java` `Spring Boot` `Thymeleaf`
+
 `PostgreSQL` `Chart.js`
 
 </td>
@@ -282,6 +296,7 @@ Hands-on practice focused on understanding software quality and testing processe
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -292,13 +307,13 @@ Hands-on practice focused on understanding software quality and testing processe
 
 ### 🎨 Frontend
 
-`JavaScript` → `Advanced DOM` → `Better UI Development`
+`JavaScript` → `DOM` → `Responsive UI` → `Better User Experience`
 
 ### 🧪 QA
 
-`Manual Testing` → `API Testing` → `Automation Fundamentals`
+`Manual Testing` → `Test Cases` → `API Testing` → `Automation Fundamentals`
 
-### ⚙️ Backend
+### ⚙️ Backend Basics
 
 `Java` → `Spring Boot` → `REST APIs`
 
@@ -318,7 +333,7 @@ AI / ML                 ██████░░░░░░░░░░░░�
 
 ---
 
-# 🎓 Certifications
+# 🎓 Certifications & Learning
 
 <div align="center">
 
@@ -328,6 +343,10 @@ AI / ML                 ██████░░░░░░░░░░░░�
 
 `Python` • `Data Analysis` • `Data Visualization`
 
+<br>
+
+📚 Continuously learning through **projects, coursework and hands-on practice**.
+
 </div>
 
 ---
@@ -336,17 +355,19 @@ AI / ML                 ██████░░░░░░░░░░░░�
 
 I'm currently building my skills toward roles in:
 
-<br>
-
 <div align="center">
 
 ### 🎨 Frontend Development
 
 Building **responsive, accessible and user-friendly web interfaces**.
 
+<br>
+
 ### 🧪 Quality Assurance
 
 Learning how to **test, identify, document and improve software quality**.
+
+<br>
 
 ### 💻 Software Engineering
 
@@ -364,9 +385,9 @@ Developing a broader understanding of the **software development lifecycle**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prabika524&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prabika524&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabika524&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabika524&layout=compact&hide_border=true&bg_color=020617&title_color=7DD3FC&text_color=CBD5E1" height="180"/>
 
 </div>
 
@@ -374,7 +395,7 @@ Developing a broader understanding of the **software development lifecycle**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabika524&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabika524&hide_border=true&background=020617&ring=38BDF8&fire=67E8F9&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=64748B&currStreakNum=E0F2FE&sideNums=E0F2FE" width="70%"/>
 
 </div>
 
@@ -384,7 +405,17 @@ Developing a broader understanding of the **software development lifecycle**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabika524&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabika524&bg_color=020617&color=7DD3FC&line=38BDF8&point=67E8F9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prabika524/Prabika524/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -394,12 +425,14 @@ Developing a broader understanding of the **software development lifecycle**.
 
 <div align="center">
 
-### Interested in web development, software quality and technology? Let's connect! ✨
+### Let's build something meaningful together. ✨
+
+Whether it's a **web project, QA practice, hackathon, collaboration**, or simply a conversation about technology — feel free to connect.
 
 <br>
 
 <a href="https://prabika.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-0891B2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prabika-rai-b49061377/">
@@ -407,11 +440,11 @@ Developing a broader understanding of the **software development lifecycle**.
 </a>
 
 <a href="https://github.com/Prabika524">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=E0F2FE"/>
 </a>
 
 <a href="mailto:raiprabika34@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -426,12 +459,16 @@ Developing a broader understanding of the **software development lifecycle**.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Prabika524&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Prabika524&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 ### ⭐ Thanks for visiting!
 
 **Build • Test • Improve • Repeat 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=120&section=footer" width="100%"/>
 
 </div>
