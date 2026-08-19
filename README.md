@@ -1,173 +1,80 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:00d4ff,50:8b5cf6,100\:ec4899\&height=230\&section=header\&text=Prabika%20Rai\&fontSize=45\&fontColor=ffffff\&fontAlignY=35\&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Tech%20Enthusiast\&descSize=17\&descAlignY=55\&animation=fadeIn)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabika%20Rai-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prabika-rai-b49061377/)
-[![GitHub](https://img.shields.io/badge/GitHub-Prabika524-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Prabika524)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://prabika.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](raiprabika34@gmail.com)
-
-</div>
-
-## 👋 About Me
-
-```javascript
-const prabika = {
-    location: "Kathmandu, Nepal 🇳🇵",
-    education: "BSc (Hons) Software Engineering @ PCPS",
-    university: "University of Bedfordshire, UK",
-    interests: [
-        "Software Engineering",
-        "Data Science",
-        "Data Analytics",
-        "AI & Machine Learning",
-        "Quality Assurance"
-    ],
-    currentlyLearning: [
-        "Python",
-        "Data Analysis",
-        "Spring Boot",
-        "PostgreSQL",
-        "Software Testing"
-    ],
-    goal: "Build practical solutions and grow as a technology professional 🚀"
-};
-```
-
-* 🎓 Currently pursuing **BSc (Hons) Software Engineering** at **Patan College Professional Studies (PCPS)**
-* 💻 Interested in **Software Engineering, Data Science, Data Analytics, AI/ML & QA**
-* 🌱 Continuously learning and improving my **programming and problem-solving skills**
-* 🐍 Exploring **Python, Data Analysis and Data Science**
-* ☕ Working with **Java, Spring Boot and PostgreSQL**
-* 🏗️ Building practical academic and personal software projects
-* 🏆 Participated in **hackathons and technology-focused activities**
-* 📚 Completed **Data Science Essentials with Python** through **Cisco Networking Academy**
-* ⚡ I enjoy turning ideas into practical and meaningful software solutions
-
----
-
-## 🛠️ Tech Stack
+<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-#### 💻 Programming Languages
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:ec4899&height=240&section=header&text=Prabika%20Rai&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<br>
 
-#### ⚙️ Frameworks & Technologies
+<a href="https://www.linkedin.com/in/prabika-rai-b49061377/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Prabika524">
+<img src="https://img.shields.io/badge/GitHub-Prabika524-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://prabika.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:raiprabika34@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge\&logo=thymeleaf\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+<br><br>
 
-#### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-#### 📊 Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
-
-#### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+clean+and+responsive+interfaces+%F0%9F%8E%A8;Exploring+Software+Quality+%26+Testing+%F0%9F%A7%AA;Learning+through+real+projects+%F0%9F%9A%80;Turning+ideas+into+better+user+experiences+%E2%9C%A8"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🏋️ Daily Fitness Tracker System
+### Hi, I'm Prabika! 🌷
 
-A full-stack fitness management system designed to help users track daily activities, weight, calories and fitness progress.
+I'm a **Software Engineering student** from Kathmandu, Nepal, with a strong interest in **Frontend Development and Software Quality Assurance**.
 
-**Key Features:**
+I enjoy creating **clean, responsive and user-friendly web interfaces** while also learning how to make software more reliable through **testing and quality assurance**.
 
-* 👤 User, Trainer & Admin roles
-* 🔐 Secure authentication
-* 📊 Progress tracking
-* 🏃 Daily activity management
-* 📋 Workout plans
-* 🔔 Admin notifications
-* 📈 Progress visualization
+Currently pursuing **BSc (Hons) Software Engineering** at **Patan College for Professional Studies (PCPS)**, affiliated with the **University of Bedfordshire, UK**.
 
-`Java` `Spring Boot` `Spring Security` `Thymeleaf` `PostgreSQL` `Chart.js`
+I'm continuously improving through **academic projects, personal projects and hands-on practice**.
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🦷 Dental Management System
+```javascript
+const prabika = {
+  location: "Kathmandu, Nepal 🇳🇵",
 
-A Java-based management system designed to manage dental clinic operations, including patients, dentists, receptionists and appointments.
+  role: [
+    "Frontend Developer",
+    "QA Enthusiast"
+  ],
 
-**Key Features:**
+  primaryFocus: [
+    "Web Development",
+    "UI Development",
+    "Software Testing"
+  ],
 
-* 👨‍⚕️ Dentist management
-* 🧑‍🤝‍🧑 Patient management
-* 📅 Appointment management
-* 🗄️ Database integration
-* 🔐 Role-based functionality
+  learning: [
+    "JavaScript",
+    "Testing",
+    "Postman",
+    "Backend Basics"
+  ],
 
-`Java` `JavaFX` `MySQL` `JDBC`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Decision Support & Data Mining
-
-Worked with datasets to explore data mining and decision-support concepts using statistical analysis and machine learning techniques.
-
-**Focus Areas:**
-
-* Data preprocessing
-* Decision Trees
-* Data visualization
-* Model evaluation
-* Confusion matrix
-* Accuracy analysis
-
-`R` `RStudio` `dplyr` `ggplot2` `rpart`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development Projects
-
-Built multiple academic and practice projects using modern web technologies, focusing on responsive interfaces, JavaScript functionality and user experience.
-
-**Focus Areas:**
-
-* Responsive UI
-* DOM manipulation
-* JavaScript
-* HTML & CSS
-* Interactive interfaces
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
+  goal: "Build better software 🚀"
+};
+```
 
 </td>
 </tr>
@@ -175,97 +82,343 @@ Built multiple academic and practice projects using modern web technologies, foc
 
 ---
 
-## 🏅 Certifications & Learning
+# 🎨 Frontend Development
 
 <div align="center">
 
-### 🎓 Cisco Networking Academy
+### My Primary Focus
 
-**Data Science Essentials with Python**
+<br>
 
-Completed training covering:
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
 
-`Python` `Data Analysis` `Data Visualization` `Data Science Fundamentals`
+</div>
+
+### What I enjoy working on
+
+* 🎨 Clean and modern user interfaces
+* 📱 Responsive web design
+* 🧩 Reusable UI components
+* ⚡ JavaScript interactions
+* 🌐 Frontend functionality
+* ✨ Improving user experience
+* 📐 Layout, spacing and visual consistency
+* 🔍 Browser-based debugging
+
+<br>
+
+<div align="center">
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 🧪 Quality Assurance & Testing
+
+<div align="center">
+
+### Making software reliable, not just functional.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</div>
+
+I'm also developing my skills in **Quality Assurance and Software Testing**, with a focus on understanding how software behaves from a user's perspective.
+
+### Areas I'm Exploring
+
+|     🧪 Testing     |   🔍 Quality   |    🐞 Debugging    |
+| :----------------: | :------------: | :----------------: |
+|   Manual Testing   |   Test Cases   | Bug Identification |
+| Functional Testing | Test Scenarios |    Bug Reporting   |
+| Regression Testing |  Requirements  |      Debugging     |
+|     API Testing    | Quality Checks |     Re-testing     |
+
+### QA Workflow
 
 ```text
-Software Engineering  ███████████████████░  Building real-world projects
-Python & Data Science ████████████████░░░░  Developing practical skills
-Spring Boot           ███████████████░░░░░  Backend development
-PostgreSQL            ███████████████░░░░░  Database development
-QA & Testing          ████████████░░░░░░░░  Exploring software quality
-AI / Machine Learning ██████████░░░░░░░░░░  Learning fundamentals
+Requirements
+     ↓
+Test Scenarios
+     ↓
+Test Cases
+     ↓
+Execute Tests
+     ↓
+Find & Report Bugs
+     ↓
+Developer Fix
+     ↓
+Re-test
+     ↓
+Regression Testing
+```
+
+I'm currently building practical experience with **manual testing, test case design, bug reporting and API testing**.
+
+---
+
+# 🛠️ Skills & Technologies
+
+## ⭐ Core Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,postman,git,github,vscode"/>
+
+</div>
+
+<br>
+
+| Area             | Technologies                                           |
+| ---------------- | ------------------------------------------------------ |
+| 🎨 Frontend      | HTML, CSS, JavaScript, Bootstrap                       |
+| 🧪 QA & Testing  | Manual Testing, Test Cases, Bug Reporting, API Testing |
+| 🔧 Tools         | Git, GitHub, VS Code, Postman                          |
+| 🗄️ Database     | MySQL, PostgreSQL                                      |
+| ☕ Backend Basics | Java, Spring Boot                                      |
+| 🐍 Programming   | Python                                                 |
+| 📊 Data          | Pandas, R, Data Analysis                               |
+
+> **Note:** My main focus is currently **Frontend Development and QA**. The other technologies listed above are areas I have explored through coursework and projects and continue to learn.
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Web Development Projects
+
+A collection of academic and practice projects focused on building responsive and interactive web interfaces.
+
+### What I worked on
+
+* 🎨 Responsive layouts
+* 📱 Mobile-friendly interfaces
+* ⚡ JavaScript functionality
+* 🧩 DOM manipulation
+* 🖱️ User interactions
+* ✨ UI improvements
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏋️ Daily Fitness Tracker
+
+A full-stack fitness management system with a focus on providing users with a simple interface for tracking fitness activities and progress.
+
+### Features
+
+* 👤 User management
+* 📊 Progress tracking
+* 🏃 Activity management
+* 📋 Workout plans
+* 🔔 Notifications
+* 📈 Progress visualization
+
+**Technologies**
+
+`Java` `Spring Boot` `Thymeleaf`
+`PostgreSQL` `Chart.js`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🦷 Dental Management System
+
+A Java-based academic project designed to manage basic dental clinic operations.
+
+### Features
+
+* 👨‍⚕️ Dentist management
+* 🧑‍🤝‍🧑 Patient management
+* 📅 Appointment management
+* 🗄️ Database integration
+* 🔐 Role-based functionality
+
+**Technologies**
+
+`Java` `JavaFX` `MySQL` `JDBC`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 Software Testing Practice
+
+Hands-on practice focused on understanding software quality and testing processes.
+
+### Areas
+
+* Test case creation
+* Functional testing
+* Regression testing
+* Bug identification
+* Bug reporting
+* API testing with Postman
+
+**Focus**
+
+`Manual QA` `Testing` `Postman` `Bug Tracking`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+### 🎨 Frontend
+
+`JavaScript` → `Advanced DOM` → `Better UI Development`
+
+### 🧪 QA
+
+`Manual Testing` → `API Testing` → `Automation Fundamentals`
+
+### ⚙️ Backend
+
+`Java` → `Spring Boot` → `REST APIs`
+
+</div>
+
+<br>
+
+```text
+Frontend Development    ████████████████████░   Primary Focus
+QA & Software Testing   █████████████████░░░░   Growing Skills
+JavaScript              ████████████████░░░░░   Improving
+API Testing             █████████████░░░░░░░░   Practicing
+Java & Spring Boot      ██████████░░░░░░░░░░░   Learning
+Python & Data           ████████░░░░░░░░░░░░░   Exploring
+AI / ML                 ██████░░░░░░░░░░░░░░░   Exploring
 ```
 
 ---
 
-## 🎯 Career Interests
-
-I'm currently exploring opportunities and building skills in:
-
-* 💻 **Software Engineering**
-* 🧪 **Quality Assurance & Software Testing**
-* 📊 **Data Analytics**
-* 🐍 **Data Science**
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 🎨 **UI/UX & Web Development**
-
-My goal is to gain practical industry experience, contribute to meaningful projects, and continuously improve as a software engineering professional.
-
----
-
-## 📊 GitHub Stats
+# 🎓 Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prabika524&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=8b5cf6&text_color=9494a8" height="170" />
+### Cisco Networking Academy
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabika524&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=9494a8" height="170" />
+**Data Science Essentials with Python**
+
+`Python` • `Data Analysis` • `Data Visualization`
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🎯 Career Direction
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabika524&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00d4ff&fire=ec4899&currStreakLabel=00d4ff&sideLabels=8b5cf6" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Prabika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prabika524\&theme=tokyo-night\&hide_border=true\&bg_color=0a0a0f\&color=00d4ff\&line=8b5cf6\&point=ec4899\&area=true\&area_color=8b5cf6)](https://github.com/Prabika524)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always interested in learning, collaborating on projects, and connecting with people in the technology community.
-
-**📍 Kathmandu, Nepal 🇳🇵**
-
-**💻 Software Engineering Student | Developer | Lifelong Learner**
+I'm currently building my skills toward roles in:
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Prabika524-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Prabika524)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabika%20Rai-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+### 🎨 Frontend Development
+
+Building **responsive, accessible and user-friendly web interfaces**.
+
+### 🧪 Quality Assurance
+
+Learning how to **test, identify, document and improve software quality**.
+
+### 💻 Software Engineering
+
+Developing a broader understanding of the **software development lifecycle**.
+
+</div>
+
+<br>
+
+> 💡 **My goal:** Become a developer who not only builds interfaces that look good, but also understands how to make software work reliably.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prabika524&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabika524&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabika524&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+
+</div>
+
+---
+
+# 🌌 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabika524&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=EC4899&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Interested in web development, software quality and technology? Let's connect! ✨
+
+<br>
+
+<a href="https://prabika.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prabika-rai-b49061377/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prabika524">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:raiprabika34@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+📍 **Kathmandu, Nepal 🇳🇵**
+
+**Frontend Developer • QA Enthusiast • Software Engineering Student**
 
 </div>
 
@@ -273,12 +426,12 @@ I'm always interested in learning, collaborating on projects, and connecting wit
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prabika524\&style=for-the-badge\&color=00d4ff)
+<img src="https://komarev.com/ghpvc/?username=Prabika524&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-### ⭐ Thanks for visiting my profile!
+<br><br>
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+### ⭐ Thanks for visiting!
+
+**Build • Test • Improve • Repeat 🚀**
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00d4ff,50:8b5cf6,100\:ec4899\&height=120\&section=footer)
