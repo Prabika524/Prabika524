@@ -1,8 +1,3 @@
-Yes — this time I'm giving you the **actual README content with NO outer ` ```markdown ` wrapper** inside it.
-
-**Copy everything inside this single block and paste directly into GitHub → `README.md`.** Do not add another backtick before or after it.
-
-```text
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=240&section=header&text=Prabika%20Rai&fontSize=52&fontColor=e0f2fe&fontAlignY=38&desc=Frontend%20Developer%20%7C%20QA%20Enthusiast%20%7C%20Software%20Engineering%20Student&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
@@ -495,4 +490,3 @@ Whether it's a **web project, QA practice, hackathon, collaboration**, or simply
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0c4a6e,100:155e75&height=120&section=footer" width="100%"/>
 
 </div>
-```
