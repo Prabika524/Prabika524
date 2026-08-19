@@ -115,7 +115,7 @@ I enjoy building **clean, responsive and intuitive interfaces** while improving 
 
 ---
 
-# 🧪 Quality Assurance & Testing
+<!--# 🧪 Quality Assurance & Testing 
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Regression Testing
 Currently building practical experience with:
 
 `Manual Testing` `Test Case Design` `Bug Reporting` `API Testing`
-
+-->
 ---
 
 # 🛠️ Skills & Technologies
