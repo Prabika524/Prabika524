@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prabika%20Rai-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prabika-rai-b49061377/)
 [![GitHub](https://img.shields.io/badge/GitHub-Prabika524-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Prabika524)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge\&logo=googlechrome\&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://prabika.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](raiprabika34@gmail.com)
 
 </div>
